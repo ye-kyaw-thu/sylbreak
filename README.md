@@ -4,7 +4,7 @@ Syllable segmenation is an important preprocess for many natural language proces
 "sylbreak" is a syllable segmentation tool for Myanmar language (Burmese) text encoded with unicode.
 I used only one line of regular expression (RE) as follow:
 
-$line =~ s/((?<!$ssSymbol)[$myConsonant](?![$aThat$ssSymbol])|[$enChar$otherChar])/$sep$1/g;
+$line =~ s/((?<!$ssSymbol)[$myConsonant] (?![$aThat$ssSymbol])|[$enChar$otherChar])/$sep$1/g;
 (a consonant not after a subscript symbol AND a consonant is not followed by a-That character or a subscript symbol)
 
 If you use shell (sylbreak.sh), perl (sylbreak.pl) and python (sylbreak.py) scripts, no need to make installation.
