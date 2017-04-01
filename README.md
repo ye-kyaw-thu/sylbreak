@@ -1,5 +1,5 @@
 # sylbreak
-Syllable segmenation is an important preprocess for many natural language processing (NLP) such as Romnization, Transliteration and Graphame to Phoneme (g2p) conversion.
+Syllable segmenation is an important preprocess for many natural language processing (NLP) such as romanization, transliteration and graphame-to-phoneme (g2p) conversion.
 
 "sylbreak" is a syllable segmentation tool for Myanmar language (Burmese) text encoded with unicode.
 I used only one line of regular expression (RE) as follow:
