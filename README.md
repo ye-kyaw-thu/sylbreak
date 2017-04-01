@@ -9,7 +9,7 @@ $line =~ s/((?<!$ssSymbol)[$myConsonant](?![$aThat$ssSymbol])|[$enChar$otherChar
 (a consonant not after a subscript symbol AND a consonant is not followed by a-That character or a subscript symbol)
 
 If you use shell (sylbreak.sh), perl (sylbreak.pl) and python (sylbreak.py) scripts, no need to make installation.
-I plan to add *sylbreak* with some more programming languages such as C++, Ruby in the near future.
+I plan to add/code *sylbreak* with some more programming languages such as C++, Ruby in the near future.
 
 Enjoy syllable breaking!
 
