@@ -43,8 +43,7 @@ sylbreak ပရိုဂရမ်ကို မြန်မာစာပေဖွ�
 </p>
 
 <p align="justify">
-အသုံးပြုတဲ့ အခါမှာသာ ကျွန်တော်ရဲ့ ဒီ Github link: (https://github.com/ye-kyaw-thu/sylbreak) ကို
-မှီငြမ်းထားကြောင်းကိုကျေးဇူးပြုပြီး ဖော်ပြပေးစေချင်ပါသည်။ 
+အသုံးပြုတဲ့ အခါမှာသာ ကျွန်တော်ရဲ့ ဒီ Github link: (https://github.com/ye-kyaw-thu/sylbreak) ကို မှီငြမ်းထားကြောင်းကို ကျေးဇူးပြုပြီး ဖော်ပြပေးစေချင်ပါသည်။ 
 </p>
 
 <p align="justify"> 
