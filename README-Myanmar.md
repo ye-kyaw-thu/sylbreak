@@ -31,7 +31,8 @@ NLP သုတေသန အလုပ်တွေထဲက တခုဖြစ်�
  
 sylbreak ပရိုဂရမ်ကို မြန်မာစာပေဖွံဖြိုးတိုးတက်ဖို့ ကြိုးစားလုပ်ဆောင်နေကြတဲ့ မြန်မာစာ NLP သုတေသနသမားများ၊ ကျောင်းသားများ၊ ပရိုဂရမ်မာများ အားလုံးကို ဝေမျှပါတယ်။ ကျွန်တော်ရဲ့ sylbreak ပရိုဂရမ်ကို ယူသုံးမှ မဟုတ်ပါဘူး။ အောက်ပါ RE ကို ကိုယ်ရဲ့ ပရိုဂရမ်မင်းဘာသာစကား တခုခုမှာ ထည့်သုံးတာမျိုးလဲ လုပ်နိုင်ပါသည်။
 
-အသုံးပြုတဲ့ အခါမှာသာ ကျွန်တော်ရဲ့ ဒီ Github link: (https://github.com/ye-kyaw-thu/sylbreak) ကို မှီငြမ်းထားကြောင်းကို ကျေးဇူးပြုပြီး ထည့်ပေးစေချင်ပါသည်။ 
+အသုံးပြုတဲ့ အခါမှာသာ ကျွန်တော်ရဲ့ ဒီ Github link: (https://github.com/ye-kyaw-thu/sylbreak) ကို မှီငြမ်းထားကြောင်းကို
+ကျေးဇူးပြုပြီး ထည့်ပေးစေချင်ပါသည်။ 
  
 နောက် နှစ်အနည်းငယ်ကြာတဲ့ အခါမှာ လက်ရှိမြန်မာစာဆိုဒ်တွေ၊ သတင်းဆိုဒ်တွေမှာ တွေ့နေရတဲ့ စာကြောင်းတွေရဲ့ အဆုံးပိုင်းတွေမှာ ပြတ်ချင်သလို၊ ပြတ်နေကြတဲ့၊ အရမ်းကို ကြည့်ရဆိုးတဲ့ မြန်မာဝဏ္ဏတွေလည်း လျော့ကြသွားလိမ့်မယ်လို့ ယူဆလျှက်။  
 
@@ -44,7 +45,7 @@ sylbreak ပရိုဂရမ်ကို မြန်မာစာပေဖွ�
 မှီငြမ်း ထားသော စာအုပ်၊ စာတမ်း၊ လင့်(ခ်)များ
 
 ဒေါက်တာ သိန်းထွန်း၊ လေလှိုင်းသဒ္ဒဗေဒနှင့် မြန်မာစကားသံ ပြောင်းလဲမှုစနစ်
-Romanization: 
-Myanmar Unicode:
-Papers:
-Regular Expression: 
+Romanization: https://en.wikipedia.org/wiki/Romanization
+Myanmar Unicode: http://unicode.org/charts/PDF/U1000.pdf
+Syllable segmentation algorithm of Myanmar text: http://gii2.nagaokaut.ac.jp/gii/media/share/20080901-ZMM%20Presentation.pdf
+Regular Expression: https://en.wikipedia.org/wiki/Regular_expression
