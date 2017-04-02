@@ -6,7 +6,7 @@ I used only one short line of regular expression (RE) as follow:
 ```perl
 $line =~ s/((?<!$ssSymbol)[$myConsonant](?![$aThat$ssSymbol])|[$enChar$otherChar])/$sep$1/g;
 ```
-(a consonant not after a subscript symbol AND a consonant is not followed by a-That character or a subscript symbol)
+(a consonant not after a subscript symbol AND not followed by a-That character or a subscript symbol)
 
 Here, variables are declared as follows:
 
