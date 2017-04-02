@@ -61,4 +61,5 @@ sylbreak ပရိုဂရမ်ကို မြန်မာစာပေဖွ�
 2. Romanization: https://en.wikipedia.org/wiki/Romanization
 3. Myanmar Unicode: http://unicode.org/charts/PDF/U1000.pdf
 4. Syllable segmentation algorithm of Myanmar text: http://gii2.nagaokaut.ac.jp/gii/media/share/20080901-ZMM%20Presentation.pdf
-5. Regular Expression: https://en.wikipedia.org/wiki/Regular_expression
+5. Ye Kyaw Thu, Andrew Finch, Yoshinori Sagisaka and Eiichiro Sumita, "A Study of Myanmar Word Segmentation Schemes for Statistical Machine Translation", Proceedings of the 11th International Conference on Computer Applications (ICCA 2013), February 26~27, 2013, Yangon, Myanmar, pp. 167-179. [Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx5ZWt5YXd0aHVubHB8Z3g6MTc0MjUwZjY3MzljMGYzZQ)
+6. Regular Expression: https://en.wikipedia.org/wiki/Regular_expression
