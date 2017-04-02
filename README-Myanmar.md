@@ -8,7 +8,7 @@
 |
 |
 | ----> ဝဏ္ဏ   -----> သဒ္ဒါရုပ်ရင်း -----> စကားလုံး -----> စကားစု -----> ဝါကျငယ် (သို့) ဝါကျ
-|     (syllable)   (morpheme)       (word)         (phrase)      (clause or sentence)
+|     (syllable)    (morpheme)       (word)       (phrase)    (clause or sentence)
 |
 အနက်ပေးသံရင်း
 (phoneme)
