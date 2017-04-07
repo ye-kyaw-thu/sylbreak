@@ -26,7 +26,7 @@ Ye@Lab
 
 ### Reference
 
-1. ဒေါက်တာ သိန်းထွန်း၊ လေလှိုင်းသဒ္ဒဗေဒနှင့် မြန်မာစကားသံ ပြောင်းလဲမှုစနစ်
+1. Dr. Thein Tun, Acoustic Phonetics and The Phonology of the Myanmar Language
 2. Romanization: https://en.wikipedia.org/wiki/Romanization
 3. Myanmar Unicode: http://unicode.org/charts/PDF/U1000.pdf
 4. Syllable segmentation algorithm of Myanmar text: http://gii2.nagaokaut.ac.jp/gii/media/share/20080901-ZMM%20Presentation.pdf
