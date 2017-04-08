@@ -31,5 +31,5 @@ Ye@Lab
 3. Myanmar Unicode: http://unicode.org/charts/PDF/U1000.pdf
 4. Syllable segmentation algorithm of Myanmar text: http://gii2.nagaokaut.ac.jp/gii/media/share/20080901-ZMM%20Presentation.pdf
 5. Ye Kyaw Thu, Andrew Finch, Yoshinori Sagisaka and Eiichiro Sumita, "A Study of Myanmar Word Segmentation Schemes for Statistical Machine Translation", Proceedings of the 11th International Conference on Computer Applications (ICCA 2013), February 26~27, 2013, Yangon, Myanmar, pp. 167-179. [Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx5ZWt5YXd0aHVubHB8Z3g6MTc0MjUwZjY3MzljMGYzZQ)
-Ye Kyaw Thu, Andrew Finch, Win Pa Pa, and Eiichiro Sumita, "A Large-scale Study of Statistical Machine Translation Methods for Myanmar Language", In Proceedings of SNLP2016, February 10-12, 2016, Phranakhon Si Ayutthaya, Thailand. [Paper](https://drive.google.com/file/d/0B0XRrhSPIXfKYjN3akhnWFh6VjA/view)
-6. Regular Expression: https://en.wikipedia.org/wiki/Regular_expression
+6. Ye Kyaw Thu, Andrew Finch, Win Pa Pa, and Eiichiro Sumita, "A Large-scale Study of Statistical Machine Translation Methods for Myanmar Language", In Proceedings of SNLP2016, February 10-12, 2016, Phranakhon Si Ayutthaya, Thailand. [Paper](https://drive.google.com/file/d/0B0XRrhSPIXfKYjN3akhnWFh6VjA/view)
+7. Regular Expression: https://en.wikipedia.org/wiki/Regular_expression
