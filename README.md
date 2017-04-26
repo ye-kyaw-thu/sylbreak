@@ -26,6 +26,9 @@ Enjoy syllable breaking!
 
 Ye@Lab
 
+### Acknowledgement
+Thanks to Swan Htet Aung who informed my typo mistake of $otherChar ... ဥဥ ---> ဥဦ!
+
 ### Reference
 
 1. Dr. Thein Tun, Acoustic Phonetics and The Phonology of the Myanmar Language
