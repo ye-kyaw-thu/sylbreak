@@ -46,7 +46,7 @@ else:
    
 myConsonant = ur"က-အ"
 enChar = ur"a-zA-Z0-9"
-otherChar = ur"ဣဤဥဥဧဩဪဿ၌၍၏၀-၉၊။!-/:-@[-`{-~\s"
+otherChar = ur"ဣဤဥဦဧဩဪဿ၌၍၏၀-၉၊။!-/:-@[-`{-~\s"
 ssSymbol = ur'္'
 ngaThat = ur'င်'
 aThat = ur'်'
