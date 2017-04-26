@@ -27,7 +27,7 @@ Enjoy syllable breaking!
 Ye@Lab
 
 ### Acknowledgement
-Thanks to Swan Htet Aung who informed my typo mistake of $otherChar ... ဥဥ ---> ဥဦ!
+Thanks to Swan Htet Aung who informed my typo mistake of $otherChar ... ဥဥ ---> ဥဦ
 
 ### Reference
 
