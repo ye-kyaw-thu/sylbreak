@@ -62,7 +62,7 @@ done
 myConsonant="က-အ"
 enChar="a-zA-Z0-9"
 eChar="abcdefg"
-otherChar="ဣဤဥဥဧဩဪဿ၌၍၏၀-၉၊။!-\/:-\@\[-\`{-~\\s"
+otherChar="ဣဤဥဦဧဩဪဿ၌၍၏၀-၉၊။!-\/:-\@\[-\`{-~\\s"
 ssSymbol="္"
 aThat="်"
 #ssSymbol='\341\200\271'
