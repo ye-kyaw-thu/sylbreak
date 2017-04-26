@@ -48,7 +48,7 @@ else
 
 my $myConsonant = "က-အ";
 my $enChar = "a-zA-Z0-9";
-my $otherChar = "ဣဤဥဥဧဩဪဿ၌၍၏၀-၉၊။!-\/:-\@\[-`{-~\\s";
+my $otherChar = "ဣဤဥဦဧဩဪဿ၌၍၏၀-၉၊။!-\/:-\@\[-`{-~\\s";
 my $ssSymbol = "္";
 my $aThat = "်";
 
