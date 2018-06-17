@@ -27,7 +27,7 @@ Enjoy syllable breaking!
 Ye@Lab
 
 ### Acknowledgement
-Thanks to [Swan Htet Aung](https://github.com/swanhtet1992) who informed my typo mistake of $otherChar ... ဥဥ ---> ဥဦ
+Thanks to [Swan Htet Aung](https://github.com/swanhtet1992) who informed my typo mistake of $otherChar ... ဥဥ ---> ဥဦ  
 sylbreak RE example programs for Java and Java Script was written by [Chan Mrate Ko Ko](https://github.com/ye-kyaw-thu/sylbreak/commits?author=chanmratekoko)
 
 ### Reference
