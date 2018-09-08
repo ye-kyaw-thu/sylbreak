@@ -21,7 +21,6 @@ my $aThat = "်";
 ```
 
 ![Visualization of sylbreak RE](https://github.com/ye-kyaw-thu/sylbreak/blob/master/visualization-of-sylBreak-RE.png)
-
 <p align="center"> Fig. Visualization of sylbreak RE </p>  
 
 If you use shell (sylbreak.sh), perl (sylbreak.pl) and python (sylbreak.py) scripts, no need to make installation.
