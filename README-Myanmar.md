@@ -1,6 +1,6 @@
 ## sylbreak
 
-မြန်မာဘာသာစကားကို တည်ဆောက်မှုဘာသာဗေဒ (structural linguistics)အရ ခွဲခြမ်းစိတ်ဖြာမည်ဆိုပါက အောက်ပါအစီအစဉ်အဖြစ် မြင်နိုင်ပါသည်။ 
+မြန်မာဘာသာစကားကို တည်ဆောက်မှုဘာသာဗေဒ (structural linguistics) အရ ခွဲခြမ်းစိတ်ဖြာမည်ဆိုပါက အောက်ပါအစီအစဉ်အဖြစ် မြင်နိုင်ပါသည်။ 
 
 ```text
 အနက်ပေးသံစဉ်
@@ -49,6 +49,9 @@ $line =~ s/((?<!$ssSymbol)[$myConsonant](?![$aThat$ssSymbol])|[$enChar$otherChar
 အထက်ပါ RE က text processing မှာ အရမ်းအသုံးဝင်တဲ့ perl ပရိုဂရမ်မင်း ဘာသာစကားနဲ့ ရေးသားထားပါသည်။ 
 အဓိက အရေးကြီးတဲ့ပွိုင့်က ဝင်လာတဲ့ စာကြောင်းတွေကို စစ်တဲ့ အခါမှာ၊ ပါဌ်ဆင့် သင်္ကေတဖြစ်တဲ့ (Unicode no. U1039) နောက်ကလိုက်တဲ့ ဗျည်းမဟုတ်ပဲ၊ အဲဒီဗျည်းရဲ့နောက်မှာလဲ ပါဌ်ဆင့် သင်္ကေတ (Unicode no. U1039) (သို့) အသတ် (Unicode no. U103A) မလိုက်ဘူး ဆိုရင်၊ အဲဒီဗျည်း ရဲ့ရှေ့မှာ ဖြတ်သားတဲ့အမှတ်အသား (ဥပမာ space (သို့) | (သို့) / စာလုံးမျိုး) ထည့်နိုင်တယ် ဆိုတဲ့ အချက်ပါ။
 </p>
+
+<img src="https://github.com/ye-kyaw-thu/sylbreak/blob/master/visualization-of-sylBreak-RE.png" alt="Visualization of sylbreak RE" width="812x180"/>
+<p align="center"> Fig. sylbreak မှာ သုံးထားတဲ့ Regular Expression </p>
 
 <p align="justify">
 အသုံးပြုတဲ့ အခါမှာသာ ဒီ Github link: (https://github.com/ye-kyaw-thu/sylbreak) ကို မှီငြမ်းထားကြောင်းကို ကျေးဇူးပြုပြီး ဖော်ပြပေးစေချင်ပါသည်။ 
