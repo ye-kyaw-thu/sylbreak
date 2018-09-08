@@ -20,7 +20,7 @@ my $ssSymbol = "္";
 my $aThat = "်";
 ```
 
-<img src="https://github.com/ye-kyaw-thu/sylbreak/blob/master/visualization-of-sylBreak-RE.png" alt="Visualization of sylbreak RE" width="912x221"/>
+<img src="https://github.com/ye-kyaw-thu/sylbreak/blob/master/visualization-of-sylBreak-RE.png" alt="Visualization of sylbreak RE" width="812x200"/>
 <p align="center"> Fig. Visualization of sylbreak RE </p>  
 
 If you use shell (sylbreak.sh), perl (sylbreak.pl) and python (sylbreak.py) scripts, no need to make installation.
