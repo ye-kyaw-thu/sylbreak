@@ -58,7 +58,7 @@ $printInput = $pOption if defined ($pOption);
 
 sub help 
 {
-    print "Usage: ./syl-RE-break.pl <-f filename>  [-s separator] [-p {0} or 1]\n";
+    print "Usage: ./syl-RE-break.pl <-i filename>  [-s separator] [-p {0} or 1]\n";
     exit(0);
 }
 
