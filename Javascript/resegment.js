@@ -14,8 +14,7 @@ const aThat = "\u103a";
 // Regular expression pattern for Myanmar syllable breaking
 // *** a consonant not after a subscript symbol AND a consonant is not
 // followed by a-That character or a subscript symbol
-const BREAK_PATTERN = new RegExp("((?<!" + ssSymbol + ")[" + myConsonant + "](?![" + aThat + ssSymbol +
-	"])" + "|[" + enChar + otherChar + "])", "mg");
+const BREAK_PATTERN = new RegExp("((?!" + ssSymbol + ")[" + myConsonant + "](?![" + aThat + ssSymbol + "])" + "|[" + enChar + otherChar + "])", "mg");
 
 function segment(text) {
 	var outArray = text.replace(BREAK_PATTERN, "𝕊$1").split('𝕊')
