@@ -7,6 +7,7 @@
 ##      usage3: ./sylbreak.pl -i ../data/my-input -s "/" -p=1
 ##
 ## last updated: 22 July 2016
+## added space cleaning parts: 23 May 2022
 ## Author: Ye Kyaw Thu, Visiting Researcher, Waseda University
 ## HP:https://sites.google.com/site/yekyawthunlp/
 
@@ -72,11 +73,15 @@ while (my $line = <$fh>)
       #Regular expression pattern for Myanmar syllable breaking
       #*** a consonant not after a subscript symbol AND a consonant is not followed by a-That character or a subscript symbol
       $line =~ s/((?<!$ssSymbol)[$myConsonant](?![$aThat$ssSymbol])|[$enChar$otherChar])/$sep$1/g;
+      $line =~ s/^\s+|\s+$//g;
+      $line =~ s/ +/ /g;      
       print "$line\n";
    }elsif ($printInput == 1)
    {
       print "input: $line\n";
       $line =~ s/((?<!$ssSymbol)[$myConsonant](?![$aThat$ssSymbol])|[$enChar$otherChar])/$sep$1/g;
+      $line =~ s/^\s+|\s+$//g;
+      $line =~ s/ +/ /g;      
       print "output: $line\n";
    }
 
