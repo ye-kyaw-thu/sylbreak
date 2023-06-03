@@ -1,0 +1,26 @@
+## Running Examples
+
+(base) rnd@gpu:~/demo/sylbreak-revise/sylbreak-ruby$ cat input.txt
+နေကောင်းလား
+မင်းကတက္ကသိုလ်ကျောင်းသားလား
+yes! ဆရာ
+
+(base) rnd@gpu:~/demo/sylbreak-revise/sylbreak-ruby$ ruby ./sylbreak.rb -i input.txt -p 1
+input: နေကောင်းလား
+output: နေ|ကောင်းလား
+input: မင်းကတက္ကသိုလ်ကျောင်းသားလား
+output: မင်း|ကတ|က္ကသိုလ်|ကျောင်းသားလား
+input: yes! ဆရာ
+output: ye|s|! ဆရာ
+
+(base) rnd@gpu:~/demo/sylbreak-revise/sylbreak-ruby$ rm sylbreak_out.txt
+(base) rnd@gpu:~/demo/sylbreak-revise/sylbreak-ruby$ ruby ./sylbreak.rb -i input.txt
+(base) rnd@gpu:~/demo/sylbreak-revise/sylbreak-ruby$ ls
+input.txt  sylbreak_out.txt  sylbreak.rb
+
+(base) rnd@gpu:~/demo/sylbreak-revise/sylbreak-ruby$ cat sylbreak_out.txt
+နေ|ကောင်းလား
+မင်း|ကတ|က္ကသိုလ်|ကျောင်းသားလား
+ye|s|! ဆရာ
+(base) rnd@gpu:~/demo/sylbreak-revise/sylbreak-ruby$
+
