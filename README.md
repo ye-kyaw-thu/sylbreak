@@ -24,7 +24,6 @@ my $aThat = "်";
 <p align="center"> Fig. Visualization of sylbreak RE </p>  
 
 If you use shell (sylbreak.sh), perl (sylbreak.pl) and python (sylbreak.py) scripts, no need to make installation.
-I plan to update/code *sylbreak* with some more programming languages such as C++, Ruby in the near future.
 
 Enjoy syllable breaking!
 
