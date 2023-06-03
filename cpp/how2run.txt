@@ -1,0 +1,38 @@
+## How to Compile
+
+(base) rnd@gpu:~/demo/sylbreak-cpp$ ls
+bk  input.txt  note.txt  output.txt  sylbreak.cpp
+
+(base) rnd@gpu:~/demo/sylbreak-cpp$ g++ -std=c++11 -o sylbreak sylbreak.cpp -lboost_program_options -lboost_regex -licuuc -licui18n -licudata
+
+(base) rnd@gpu:~/demo/sylbreak-cpp$ ls
+bk  input.txt  note.txt  output.txt  sylbreak  sylbreak.cpp
+
+## Input File
+
+(base) rnd@gpu:~/demo/sylbreak-cpp$ cat input.txt
+နေကောင်းလား
+မင်းကတက္ကသိုလ်ကျောင်းသားလား
+yes! ဆရာ
+(base) rnd@gpu:~/demo/sylbreak-cpp$
+
+## Example Runnings
+
+(base) rnd@gpu:~/demo/sylbreak-cpp$ ./sylbreak -i ./input.txt
+(base) rnd@gpu:~/demo/sylbreak-cpp$ cat sylbreak_out.txt
+|နေ|ကောင်း|လား
+|မင်း|က|တက္က|သိုလ်|ကျောင်း|သား|လား
+|y|e|s|!|ဆ|ရာ
+
+(base) rnd@gpu:~/demo/sylbreak-cpp$ ./sylbreak -i input.txt -o output.txt -s "/" -p 1
+input: နေကောင်းလား
+output: /နေ/ကောင်း/လား
+input: မင်းကတက္ကသိုလ်ကျောင်းသားလား
+output: /မင်း/က/တက္က/သိုလ်/ကျောင်း/သား/လား
+input: yes!ဆရာ
+output: /y/e/s/!/ဆ/ရာ
+
+(base) rnd@gpu:~/demo/sylbreak-cpp$ cat output.txt
+/နေ/ကောင်း/လား
+/မင်း/က/တက္က/သိုလ်/ကျောင်း/သား/လား
+/y/e/s/!/ဆ/ရာ
