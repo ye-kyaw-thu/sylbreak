@@ -31,7 +31,7 @@ Ye@Lab
 
 ### Demo/Explanation
 
-Explanation relating to the paper entitled: An Algorithm for Myanmar Syllable Segmentation based on the Official Standard Myanmar Unicode Text.  
+Explanation relating to the paper entitled: [An Algorithm for Myanmar Syllable Segmentation based on the Official Standard Myanmar Unicode Text](https://ieeexplore.ieee.org/document/10181391).  
 
 Video Link: [https://vimeo.com/864665740?share=copy](https://vimeo.com/864665740?share=copy)
 
