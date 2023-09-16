@@ -66,6 +66,11 @@ $line =~ s/((?<!$ssSymbol)[$myConsonant](?![$aThat$ssSymbol])|[$enChar$otherChar
 
 ---
 
+### Demo/Explanation
+
+ICCA 2023 မှာ published လုပ်ထားတဲ့ စာတမ်း [An Algorithm for Myanmar Syllable Segmentation based on the Official Standard Myanmar Unicode Text](https://ieeexplore.ieee.org/document/10181391) မှာ sylbreak က အသတ်နဲ့ အောက်ကမြစ် တွဲပါနေတဲ့ ဗျည်းတချို့ကို syllable မဖြစ်ပေးနိုင်ဘူးလို့ မှားရေးထားတာကို ဖတ်လိုက်ရလို့ sylbreak tool က မြန်မာစာကို Unicode order အတိုင်းသာ ရိုက်ထည့်ထားရင် မှန်မှန်ကန်ကန် ဖြတ်ပေးနိုင်ကြောင်း ရှင်းပြထားပါတယ်။ ပြီးတော့ မြန်မာစာ စာလုံးတွေရိုက်ကြတဲ့အခါမှာ typing order တွေကို ဂရုစိုက်ဖို့လိုကြောင်းနဲ့ မြန်မာစာ NLP သုတေသန လုပ်နေကြတဲ့ သူတွေအနေနဲ့က Unicode encoding နဲ့ normalization ကိစ္စတွေကိုလည်း ဂဃနဏ သိထားဖို့ လိုအပ်ကြောင်းကို ရှင်းပြထားတဲ့ ဗီဒီယိုပါ။  
+
+Video Link: [https://vimeo.com/864665740?share=copy](https://vimeo.com/864665740?share=copy)
 
 ### မှီငြမ်း ထားသော စာအုပ်၊ စာတမ်း၊ လင့်(ခ်)များ
 
