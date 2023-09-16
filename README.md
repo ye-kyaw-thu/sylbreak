@@ -29,6 +29,12 @@ Enjoy syllable breaking!
 
 Ye@Lab
 
+### Demo/Explanation
+
+Explanation relating to the paper entitled: An Algorithm for Myanmar Syllable Segmentation based on the Official Standard Myanmar Unicode Text.  
+
+[Video Link:](https://vimeo.com/864665740?share=copy)
+
 ### Acknowledgement
 Thanks to [Swan Htet Aung](https://github.com/swanhtet1992) who informed my typo mistake of $otherChar ... ဥဥ ---> ဥဦ  
 sylbreak RE example programs for Java and Java Script was written by [Chan Mrate Ko Ko](https://github.com/ye-kyaw-thu/sylbreak/commits?author=chanmratekoko).
