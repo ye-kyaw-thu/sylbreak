@@ -33,9 +33,9 @@ Ye@Lab
 
 In the paper titled "[An Algorithm for Myanmar Syllable Segmentation based on the Official Standard Myanmar Unicode Text](https://ieeexplore.ieee.org/document/10181391)" presented at the ICCA-2023 conference, the authors make the following statement in Section VI, Performance Evaluation:  
 
-Furthermore, we compared the correctness of our algorithm with an existing algorithm, sylbreak3. As stated in Section II, the drawback of the sylbreak3 algorithm is that it cannot correctly segment syllables that contain consonants, ‘်’ and ‘့’. To evaluate this, we tested another set of 165 common syllables in 8 random Myanmar sentences shown Table IX. The results obtained should be seen in the Table X.  
+*Furthermore, we compared the correctness of our algorithm with an existing algorithm, sylbreak3. As stated in Section II, the drawback of the sylbreak3 algorithm is that it cannot correctly segment syllables that contain consonants, ‘်’ and ‘့’. To evaluate this, we tested another set of 165 common syllables in 8 random Myanmar sentences shown Table IX. The results obtained should be seen in the Table X.*  
 
-According to this experiment, it can be clearly seen that the sylbreak3 algorithm can correctly segment all Myanmar syllables including Parli and digits but it fails in detecting the boundary of syllables composed of  ‘်’ and ‘့’.
+*According to this experiment, it can be clearly seen that the sylbreak3 algorithm can correctly segment all Myanmar syllables including Parli and digits but it fails in detecting the boundary of syllables composed of  ‘်’ and ‘့’.*
 
 The statement that "sylbreak fails in detecting the boundary of syllables that composed of   ‘်’ and ‘့ ’" is wrong. When I read their paper carefully, I found that the test data is not correctly typed according to the Unicode typing of the Myanmar language. In details, they typed Auk-ka-myit ("့") and then A-that ("်") instead of A-that ("်") and then Auk-ka-myit ("့") order. I assumed they got wrong segmentation results because of this. Actually, sylbreak tool is working well if the user provided the Myanmar text that typed correct order based on the Unicode standard. 
 
