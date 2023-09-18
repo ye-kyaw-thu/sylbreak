@@ -31,7 +31,7 @@ Ye@Lab
 
 ### Demo/Explanation
 
-In the paper titled "[An Algorithm for Myanmar Syllable Segmentation based on the Official Standard Myanmar Unicode Text](https://ieeexplore.ieee.org/document/10181391)" presented at the ICCA-2023 conference, the authors make the following statement in Section IV, Performance Evaluation:  
+In the paper titled "[An Algorithm for Myanmar Syllable Segmentation based on the Official Standard Myanmar Unicode Text](https://ieeexplore.ieee.org/document/10181391)" presented at the ICCA-2023 conference, the authors make the following statement in Section VI, Performance Evaluation:  
 
 Furthermore, we compared the correctness of our algorithm with an existing algorithm, sylbreak3. As stated in Section II, the drawback of the sylbreak3 algorithm is that it cannot correctly segment syllables that contain consonants, ‘်’ and ‘့’. To evaluate this, we tested another set of 165 common syllables in 8 random Myanmar sentences shown Table IX. The results obtained should be seen in the Table X.  
 
