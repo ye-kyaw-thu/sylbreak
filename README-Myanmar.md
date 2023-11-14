@@ -83,4 +83,5 @@ Video Link: [https://vimeo.com/864665740?share=copy](https://vimeo.com/864665740
 7. Ye Kyaw Thu, Andrew Finch, Yoshinori Sagisaka and Eiichiro Sumita, "A Study of Myanmar Word Segmentation Schemes for Statistical Machine Translation", in Proceedings of the 11th International Conference on Computer Applications (ICCA 2013), February 26~27, 2013, Yangon, Myanmar, pp. 167-179. [Paper](https://github.com/ye-kyaw-thu/sylbreak/blob/master/reference/my2Others-CameraReady.pdf)
 8. Ye Kyaw Thu, Andrew Finch, Win Pa Pa, and Eiichiro Sumita, "A Large-scale Study of Statistical Machine Translation Methods for Myanmar Language", in Proceedings of SNLP2016, February 10-12, 2016, Phranakhon Si Ayutthaya, Thailand. [Paper](https://github.com/ye-kyaw-thu/sylbreak/blob/master/reference/SNLP-3-A%20Large-scale%20Study%20of%20Statistical%20Machine%20Translation%20Methods%20for%20Myanmar%20Language.pdf)
 9. Regular Expression: https://en.wikipedia.org/wiki/Regular_expression  
-10. DebuggexBeter: https://www.debuggex.com/  
+10. DebuggexBeter: https://www.debuggex.com/
+11. Run UTN11 normalization on Myanmar text? [https://github.com/harfbuzz/harfbuzz/issues/494](https://github.com/harfbuzz/harfbuzz/issues/494)
