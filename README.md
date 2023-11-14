@@ -59,4 +59,4 @@ sylbreak RE example programs for Java and Java Script was written by [Chan Mrate
 8. Ye Kyaw Thu, Andrew Finch, Win Pa Pa, and Eiichiro Sumita, "A Large-scale Study of Statistical Machine Translation Methods for Myanmar Language", in Proceedings of SNLP2016, February 10-12, 2016, Phranakhon Si Ayutthaya, Thailand. [Paper](https://github.com/ye-kyaw-thu/sylbreak/blob/master/reference/SNLP-3-A%20Large-scale%20Study%20of%20Statistical%20Machine%20Translation%20Methods%20for%20Myanmar%20Language.pdf)
 9. Regular Expression: https://en.wikipedia.org/wiki/Regular_expression
 10. DebuggexBeter: https://www.debuggex.com/
-11. [https://github.com/harfbuzz/harfbuzz/issues/494](https://github.com/harfbuzz/harfbuzz/issues/494)
+11. [Run UTN11 normalization on Myanmar text?](https://github.com/harfbuzz/harfbuzz/issues/494)
