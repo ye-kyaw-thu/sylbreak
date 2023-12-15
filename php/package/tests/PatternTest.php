@@ -7,7 +7,7 @@ final class PatternTest extends TestCase
 {
     public function testPattern()
     {
-        $expected = include('../src/Config/pangram.php');
+        $expected = include('../src/Config/pattern.php');
         $result = Sylbreak::pattern();
         return $this->assertSame($expected, $result);
     }

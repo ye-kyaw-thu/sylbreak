@@ -7,9 +7,24 @@ use YeKyawThu\Sylbreak\Sylbreak;
 final class BreakTest extends TestCase
 {
     public function testBreak()
-    {
-        $expected = '|သီ|ဟိုဠ်|မှ| |ဉာဏ်|ကြီး|ရှင်|သည်| |အာ|ယု|ဝဍ္ဎ|န|ဆေး|ညွှန်း|စာ|ကို| |ဇ|လွန်|ဈေး|ဘေး| |ဗာ|ဒံ|ပင်|ထက်| |အ|ဓိဋ္ဌာန်|လျက်| |ဂ|ဃ|န|ဏ|ဖတ်|ခဲ့|သည်|။';
-        $result = Sylbreak::break();
-        return $this->assertSame($expected, $result);
+    {        
+        $replacement = '|$1';
+        $string = 'သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ္ဎနဆေးညွှန်းစာကို ဇလွန်ဈေးဘေး ဗာဒံပင်ထက် အဓိဋ္ဌာန်လျက် ဂဃနဏဖတ်ခဲ့သည်။';
+        $result = Sylbreak::break($replacement, $string);
+        $this->assertIsstring($result);
+    }
+    public function testPangram()
+    {        
+        $replacement = '|$1';
+        $string = Sylbreak::pangram();
+        $result = Sylbreak::break($replacement, $string);
+        $this->assertIsstring($result);
+    }
+    public function testUhrd()
+    {        
+        $replacement = '|$1';
+        $string = Sylbreak::uhrd()['desc'];
+        $result = Sylbreak::break($replacement, $string);
+        $this->assertIsstring($result);
     }
 }

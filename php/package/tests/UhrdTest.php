@@ -7,7 +7,7 @@ final class UhrdTest extends TestCase
 {
     public function testUhrd()
     {
-        $expected = include('../src/Config/pangram.php');
+        $expected = include('../src/Config/uhrd.php');
         $result = Sylbreak::uhrd();
         return $this->assertSame($expected, $result);
     }
