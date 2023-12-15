@@ -1,0 +1,19 @@
+{
+    "name": "ye-kyaw-thu/sylbreak",
+    "description": "Syllable segmentation tool for Myanmar language (Burmese) by Ye.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YeKyawThu\\Sylbreak\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ye Kyaw Thu, Chan Mrat Ko Ko and Phyo Zaw Tun"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
